@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="319px" height="126.5px" viewBox="0 0 319 126.5" enable-background="new 0 0 319 126.5" xml:space="preserve">
+<font horiz-adv-x="1000">
+<!-- Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
+<font-face font-family="SourceSansPro-Regular" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="653" d="M89,0l476,0l0,660l-476,0M154,110l0,462l127,-232M372,340l126,232l0,-462M197,58l74,132l54,103l4,0l52,-103l73,-132M325,387l-50,94l-66,119l235,0l-66,-119l-49,-94z"/>
+<glyph unicode="{" horiz-adv-x="303" d="M111,-19C111,-122 149,-152 227,-152l46,0l0,47l-28,0C192,-105 178,-79 178,-14C178,47 184,99 184,167C184,231 167,264 124,276l0,4C167,292 184,324 184,389C184,450 178,512 178,570C178,635 192,660 245,660l28,0l0,48l-46,0C149,708 111,677 111,575C111,506 120,444 120,381C120,343 102,305 34,304l0,-52C102,251 120,213 120,174C120,107 111,54 111,-19z"/>
+<glyph unicode="}" horiz-adv-x="303" d="M31,-105l0,-47l44,0C155,-152 192,-122 192,-19C192,54 183,107 183,174C183,213 202,251 269,252l0,52C202,305 183,343 183,381C183,444 192,506 192,575C192,677 155,708 75,708l-44,0l0,-48l26,0C111,660 125,635 125,570C125,512 120,450 120,389C120,324 136,292 179,280l0,-4C136,264 120,231 120,167C120,99 125,47 125,-14C125,-79 111,-105 57,-105z"/>
+<glyph unicode=" " horiz-adv-x="202"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
+<font-face font-family="SourceSansPro-Bold" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="690" d="M80,0l530,0l0,660l-530,0M178,155l0,371l95,-186M417,340l94,186l0,-371M263,91l39,77l41,98l4,0l41,-98l39,-77M343,414l-43,95l-31,59l152,0l-32,-59l-42,-95z"/>
+<glyph unicode="A" horiz-adv-x="571" d="M213,270l16,60C247,395 265,471 280,540l4,0C302,472 319,395 337,330l16,-60M423,0l156,0l-205,652l-176,0l-205,-652l150,0l40,155l200,0z"/>
+<glyph unicode="C" horiz-adv-x="580" d="M45,322C45,103 183,-12 352,-12C433,-12 505,21 559,84l-81,89C446,138 408,115 354,115C259,115 196,193 196,327C196,458 267,537 358,537C404,537 435,518 468,488l81,91C505,624 437,664 356,664C188,664 45,538 45,322z"/>
+<glyph unicode="F" horiz-adv-x="523" d="M76,0l148,0l0,253l225,0l0,124l-225,0l0,151l264,0l0,124l-412,0z"/>
+<glyph unicode="I" horiz-adv-x="300" d="M76,0l148,0l0,652l-148,0z"/>
+<glyph unicode="P" horiz-adv-x="605" d="M76,0l148,0l0,221l90,0C452,221 569,289 569,442C569,600 456,652 314,652l-238,0M224,338l0,197l81,0C383,535 425,510 425,442C425,374 386,338 305,338z"/>
+<glyph unicode="R" horiz-adv-x="615" d="M224,535l75,0C376,535 418,513 418,449C418,385 376,352 299,352l-75,0M594,0l-147,261C516,292 563,353 563,449C563,604 449,652 311,652l-235,0l0,-652l148,0l0,235l80,0l125,-235z"/>
+<glyph unicode="T" horiz-adv-x="555" d="M204,0l147,0l0,528l179,0l0,124l-506,0l0,-124l180,0z"/>
+<glyph unicode="-" horiz-adv-x="332" d="M43,201l246,0l0,104l-246,0z"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
+<font-face font-family="SourceSansPro-ExtraLight" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="624" d="M96,0l432,0l0,660l-432,0M134,74l0,536l154,-270M336,340l152,270l0,-536M144,32l102,176l64,106l4,0l62,-106l100,-176M310,366l-56,92l-94,168l302,0l-94,-168l-54,-92z"/>
+<glyph unicode="D" horiz-adv-x="594" d="M96,0l148,0C448,0 540,136 540,332C540,528 448,660 244,660l-148,0M128,28l0,604l112,0C428,632 506,506 506,332C506,158 428,28 240,28z"/>
+<glyph unicode="E" horiz-adv-x="502" d="M96,0l364,0l0,28l-332,0l0,310l270,0l0,28l-270,0l0,266l322,0l0,28l-354,0z"/>
+<glyph unicode="I" horiz-adv-x="224" d="M96,0l32,0l0,660l-32,0z"/>
+<glyph unicode="O" horiz-adv-x="640" d="M320,-12C476,-12 588,124 588,332C588,540 476,672 320,672C164,672 52,540 52,332C52,124 164,-12 320,-12M320,18C180,18 86,142 86,332C86,522 180,642 320,642C460,642 554,522 554,332C554,142 460,18 320,18z"/>
+<glyph unicode="R" horiz-adv-x="544" d="M128,340l0,292l138,0C388,632 456,594 456,490C456,388 388,340 266,340M500,0l-188,314C422,324 490,385 490,490C490,612 408,660 278,660l-182,0l0,-660l32,0l0,312l148,0l186,-312z"/>
+<glyph unicode="T" horiz-adv-x="512" d="M240,0l32,0l0,632l214,0l0,28l-460,0l0,-28l214,0z"/>
+</font>
+
+	<rect width="319" height="127"/>
+<rect x="58.595" y="31.512" fill="none" width="202.229" height="70.821"/>
+<text transform="matrix(1 0 0 1 60.9307 61.2773)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SourceSansPro-Bold'" font-size="42.4667">API-CRAFT</tspan><tspan x="197.552" y="0" fill="#FFFFFF" font-family="'SourceSansPro-Regular'" font-size="33.1771">  </tspan><tspan x="45.857" y="33" fill="#FFFFFF" font-family="'SourceSansPro-ExtraLight'" font-size="30">DETROIT</tspan></text>
+<rect x="272.623" y="11.523" fill="none" width="71.959" height="111.124"/>
+<text transform="matrix(1 0 0 1 272.6221 95.6953)" fill="#B3B3B3" font-family="'SourceSansPro-Regular'" font-size="118.2164">}</text>
+<rect x="275.956" y="11.523" fill="none" width="71.959" height="111.124"/>
+<text transform="matrix(1 0 0 1 275.9561 95.6953)" fill="#FFFFFF" font-family="'SourceSansPro-Regular'" font-size="118.2164">}</text>
+<rect x="-27.165" y="11.523" fill="none" width="74.287" height="111.124"/>
+<text transform="matrix(1 0 0 1 11.3037 95.6953)" fill="#B3B3B3" font-family="'SourceSansPro-Regular'" font-size="118.2164">{</text>
+<rect x="-30.498" y="11.523" fill="none" width="74.287" height="111.124"/>
+<text transform="matrix(1 0 0 1 7.9717 95.6953)" fill="#FFFFFF" font-family="'SourceSansPro-Regular'" font-size="118.2164">{</text>
+</svg>
